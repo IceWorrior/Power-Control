@@ -1,0 +1,21 @@
+window {
+  background: transparent;
+}
+
+button {
+  background: #0b0909;
+  color: white;
+  min-height: 80px;
+  min-width: 80px;
+  border-radius: 60px;
+  padding: 20px;
+}
+
+button image {
+  height: 50px;
+  width: 50px;
+}
+
+button:hover {
+  background: #2c2c2c;
+}
